@@ -1,0 +1,5 @@
+{
+  "name": "LINE Group Hub",
+  "description": "A centralized dashboard to manage and reply to multiple LINE group chats, filtering out unwanted noise.",
+  "requestFramePermissions": []
+}
